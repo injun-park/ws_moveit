@@ -1,0 +1,8 @@
+prefix=/home/kobuki/ws_moveit/devel
+
+Name: vscode_ws
+Description: Description of vscode_ws
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kobuki/ws_moveit/devel/lib 
+Requires: 

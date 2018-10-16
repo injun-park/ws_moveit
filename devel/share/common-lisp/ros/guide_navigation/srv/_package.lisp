@@ -1,0 +1,10 @@
+(cl:defpackage guide_navigation-srv
+  (:use )
+  (:export
+   "GUIDENAVIGATION"
+   "<GUIDENAVIGATION-REQUEST>"
+   "GUIDENAVIGATION-REQUEST"
+   "<GUIDENAVIGATION-RESPONSE>"
+   "GUIDENAVIGATION-RESPONSE"
+  ))
+
