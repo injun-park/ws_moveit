@@ -202,6 +202,7 @@ class MoveGroupPythonIntefaceTutorial(object):
     pose_goal.position.z = 0.4
     group.set_pose_target(pose_goal)
 
+
     ## Now, we call the planner to compute the plan and execute it.
     plan = group.go(wait=True)
     # Calling `stop()` ensures that there is no residual movement
