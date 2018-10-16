@@ -1,8 +1,0 @@
-prefix=/home/kobuki/ws_moveit/install
-
-Name: guide_navigation
-Description: Description of guide_navigation
-Version: 0.0.0
-Cflags: -I/home/kobuki/ws_moveit/install/include
-Libs: -L/home/kobuki/ws_moveit/install/lib 
-Requires: message_runtime

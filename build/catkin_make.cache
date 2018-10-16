@@ -1,2 +1,0 @@
-guide_navigation:moveit_tutorials:my_moveit_pkg:navigation_stage:panda_moveit_config:vscode_ws
--DCATKIN_DEVEL_PREFIX=/home/kobuki/ws_moveit/devel -DCMAKE_INSTALL_PREFIX=/home/kobuki/ws_moveit/install -G Unix Makefiles
